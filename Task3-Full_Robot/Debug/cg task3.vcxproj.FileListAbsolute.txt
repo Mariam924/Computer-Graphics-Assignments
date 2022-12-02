@@ -1,0 +1,2 @@
+C:\Users\Dell\source\repos\cg task3\Debug\cg task3.exe
+C:\Users\Dell\source\repos\cg task3\Debug\cg task3.pdb
